@@ -1,5 +1,5 @@
 # MyMSI-Z390-ACE-Clover
-MSI Z390 ACE Hackintosh Clover
+MSI Z390 ACE Hackintosh Clover BigSur
 
 Hardware:
 主板:MSI Z390 ACE
