@@ -9,7 +9,7 @@ CPU:i9-9900k
 显示器：Dell 2720Q*2台 Dp
 
 Clover版本:5129
-测试系统：Big Sur
+测试系统：Big Sur 11.1/11.2
 
 工作正常：
 睡眠，
